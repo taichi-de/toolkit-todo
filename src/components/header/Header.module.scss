@@ -1,8 +1,11 @@
 .root {
   .app_bar {
     box-shadow: none;
-    background-color: #f1f2f7;
-    color: #282828;
+    background-color: #f3f3f3;
+    color: #3f3f3f;
+    margin: 0;
+    padding-bottom: -30px;
+    border-bottom: 3px solid rgb(245, 45, 45);
 
     .tool_bar {
       padding: 0;
